@@ -1,0 +1,6 @@
+# github.com/zonghaishang/proxy-wasm-sdk-go v0.0.0-20210316032023-07ae3099b461
+## explicit
+github.com/zonghaishang/proxy-wasm-sdk-go/examples/bolt
+github.com/zonghaishang/proxy-wasm-sdk-go/proxy
+github.com/zonghaishang/proxy-wasm-sdk-go/proxy/syscall
+github.com/zonghaishang/proxy-wasm-sdk-go/proxy/types
