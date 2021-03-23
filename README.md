@@ -405,4 +405,4 @@ java  -DMOSN_ENABLE=true -Drpc_tr_port=12198 -Dspring.profiles.active=dev -Drpc_
 
 - [wasm protocol #1579](https://github.com/mosn/mosn/pull/1597)
 - [mosn api #31](https://github.com/mosn/api/pull/31)
-- [wasm sdk-go](
+- [wasm sdk-go](https://github.com/zonghaishang/proxy-wasm-sdk-go)
